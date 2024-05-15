@@ -19,7 +19,7 @@ const About = () => {
                 </div>
                 <div className="about-right">
                     <div className="about-para">
-                        <p>I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my carreer, I have had the priviege of collaborating with prestigious organizations, contributing to their success and growth.</p>
+                        <p>I am an experienced Frontend Developer with over a decade of professional expertise in the field. Throughout my career, I have had the priviege of collaborating with prestigious organizations, contributing to their success and growth.</p>
                         <p>My passion for Front End development is not only reflected in my extensive experinece but also in the enthusiasm and dedication I bring to each project.</p>
                     </div>
                     <div className="about-skills">
